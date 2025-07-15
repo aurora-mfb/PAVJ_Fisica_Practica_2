@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/BP_DamageType_Grenade.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/BP_PickUp_HitscanRifle.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/__ExternalActors__/Maps/FirstPersonMap/9/K3/95ZZFRNVAE30AFP0LVJI0L.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/__ExternalActors__/Maps/FirstPersonMap/9/R0/U4VJQ9VCVXRP197BS1RSPZ.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/GC_SM_Cube36.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/__ExternalActors__/Maps/FirstPersonMap/E/I1/90OWPRFQA4LY7X3AK1W63X.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/GC_SM_Cube37.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/Wall.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/LevelPrototyping/Meshes/GC_Wall.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/GC_Wall.uasset",
+				"C:/Users/Emilio/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/__ExternalActors__/Maps/FirstPersonMap/3/EE/BDX7ZV4NBXEIEF7GOX4NAZ.uasset",
+				"C:/Users/Aurora.fernandez/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/__ExternalActors__/Maps/FirstPersonMap/E/OP/OZZRUEZDFZ1FM1ALSUCL9U.uasset",
+				"C:/Users/Aurora.fernandez/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/GC_SM_Statue.uasset",
+				"C:/Users/Aurora.fernandez/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/Blueprints/asd.uasset",
+				"C:/Users/Aurora.fernandez/Downloads/UTAD-Physics-main/UTAD-Physics-main/Content/__ExternalActors__/Maps/FirstPersonMap/3/2A/Y313GNJJ4DU52SXLGQ4HWW.uasset"
+			]
+		}
+	]
+}
